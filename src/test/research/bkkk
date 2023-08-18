@@ -1,0 +1,25 @@
+# @runnow issues
+
+  Scenario: Validation of PDDTS Fund Transfer scenario by choosing beneficiary from the list
+    Given I'm on Autobahn Corporate user login page with "valid_username" and "valid_password"
+    When I click on "TRANSACT" menu option
+    And Click on "Fund Transfer" option
+    Then "Fund Transfer" page should be displayed with "Make a Transfer", "Manage Beneficiaries" & "View All Organization Transfers"
+    When I click on "Make a Transfer" and Choose "PDDTS" channel
+    And Enter the transfer details with "SourceAccount" & "Beneficiary"
+    And Review the transfer details with "Beneficiary" details
+    And click Submit
+    Then Transaction should be successful
+
+  #@runnow issues
+
+  Scenario: Validation of PDDTS Fund Transfer scenario by entering beneficiary details directly
+    Given I'm on Autobahn Corporate user login page with "valid_username" and "valid_password"
+    When I click on "TRANSACT" menu option
+    And Click on "Fund Transfer" option
+    Then "Fund Transfer" page should be displayed with "Make a Transfer", "Manage Beneficiaries" & "View All Organization Transfers"
+    When I click on "Make a Transfer" and Choose "PDDTS" channel
+    And Enter the transfer details with "SourceAccount" & "EnterBeneficiaryDetails"
+    And Review the transfer details with "Beneficiary" details
+    And click Submit
+    Then Transaction should be successful

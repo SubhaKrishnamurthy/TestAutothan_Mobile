@@ -1,0 +1,1078 @@
+2023-08-17 14:10:05,384  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Activate Request Payment - "Unique Business name" field
+2023-08-17 14:10:05,821  INFO [main] RunManager:23 - Hey! itexpleo, Logging everything from here ....
+2023-08-17 14:10:05,821  INFO [main] RunManager:24 - Run ID is --> Run-11531
+2023-08-17 14:10:06,033 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,047 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,047  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,048  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Union Bank Account Merchant Creation Page "Website Or Social Media Page" field GUI Validation
+2023-08-17 14:10:06,049 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,064 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,065  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,065  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Union Bank Account Merchant Creation Page "Products Or Service Offered" field GUI Validation
+2023-08-17 14:10:06,066 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,080 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,080  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,081  INFO [main] StepsBase:17 - Executing S C E N A R I O : Activate Request Payment -  Nominate settlement account
+2023-08-17 14:10:06,082 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,096 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,096  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,098  INFO [main] StepsBase:17 - Executing S C E N A R I O : Activate Request Payment -  "Fees and Charges" and "Terms and conditions" link checkbox
+2023-08-17 14:10:06,099 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,104 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,104  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,104  INFO [main] StepsBase:17 - Executing S C E N A R I O : Activate Request Payment -  "SET-UP BUSINESS LINK" button && Request Payment button/Menu
+2023-08-17 14:10:06,105 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,109 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,109  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,110  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Union Bank Account Fund Transfer scenario with target account as own union bank account
+2023-08-17 14:10:06,111 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,119 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,119  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,120  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Union Bank Account Fund Transfer scenario with selecting a beneficiary
+2023-08-17 14:10:06,122 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,128 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,129  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,129  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Union Bank Account Fund Transfer scenario with entering the recipient account number
+2023-08-17 14:10:06,131 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,137 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,137  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,137  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of PESONet Pay Fund Transfer scenario by choosing beneficiary from the list
+2023-08-17 14:10:06,140 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,144 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,145  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,145  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of PESONet Pay Fund Transfer scenario by entering beneficiary details directly
+2023-08-17 14:10:06,147 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,151 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,152  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,160  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,161 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,170 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,170  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,171  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,172 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,180 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,180  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,181  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,182 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,187 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,187  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,187  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,188 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,194 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,194  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,196  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,200 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,206 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,207  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,209  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,212 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,222 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,222  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,222  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,223 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,232 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,232  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,233  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,233 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,238 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,238  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,238  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,239 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,248 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,249  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,249  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,250 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,257 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,257  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,258  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,259 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,267 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,267  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,268  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,268 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,272 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,273  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,273  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,274 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,281 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,282  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,283  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channels Approval Hierarchy Flow
+2023-08-17 14:10:06,285 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,296 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,296  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,297  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of PDDTS Fund Transfer scenario by choosing beneficiary from the list and Entering beneficiary details
+2023-08-17 14:10:06,297 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,301 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,302  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,302  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of PDDTS Fund Transfer scenario by choosing beneficiary from the list and Entering beneficiary details
+2023-08-17 14:10:06,302 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,306 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,306  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,307  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of SWIFT Fund Transfer scenario by choosing beneficiary from the list and Entering beneficiary details
+2023-08-17 14:10:06,308 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,312 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,313  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,314  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of SWIFT Fund Transfer scenario by choosing beneficiary from the list and Entering beneficiary details
+2023-08-17 14:10:06,315 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,318 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,318  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,319  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,320 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,324 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,325  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,326  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,327 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,332 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,332  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,333  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,334 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,338 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,338  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,339  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,339 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,342 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,343  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,343  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,344 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,353 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,354  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,354  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,354 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,358 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,358  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,359  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,359 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,363 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,363  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,364  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,365 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,367 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,368  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,368  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,369 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,371 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,372  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,372  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Transaction Not allowed scenario for Fund Transfer flow
+2023-08-17 14:10:06,372 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,375 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,377  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,380  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,380 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,384 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,384  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,384  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,385 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,389 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,390  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,390  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,391 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,399 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,399  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,400  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,400 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,405 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,406  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,406  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,407 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,410 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,410  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,410  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,411 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,415 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,415  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,415  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,416 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,423 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,423  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,423  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,424 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,428 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,428  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,428  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,429 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,433 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,433  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,433  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer scenario with different payment channel Rejection during Hierarchy Flow
+2023-08-17 14:10:06,434 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,437 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,438  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,439  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,439 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,441 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,441  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,441  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,442 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,444 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,444  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,444  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,445 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,447 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,447  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,447  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,448 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,450 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,450  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,450  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,451 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,453 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,453  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,454  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,454 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,456 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,457  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,457  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,458 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,460 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,460  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,461  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,462 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,465 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,465  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,465  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,466 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,468 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,469  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,469  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario for various payment channel
+2023-08-17 14:10:06,469 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,472 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,472  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,473  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,474 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,477 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,477  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,477  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,478 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,480 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,481  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,482  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,483 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,485 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,485  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,486  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,486 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,489 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,489  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,489  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,490 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,493 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,495  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,496  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,498 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,500 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,500  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,501  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,501 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,504 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,504  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,505  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,505 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,507 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,507  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,507  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,508 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,510 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,511  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,511  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of transaction not allowed scenario for scheduled fund transfer with various payment channel
+2023-08-17 14:10:06,512 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,514 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,515  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,515  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Edit button functionality in fund transfer scenario
+2023-08-17 14:10:06,516 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,517 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,517  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,518  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Edit button functionality in fund transfer scenario
+2023-08-17 14:10:06,518 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,520 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,520  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,520  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Edit button functionality in fund transfer scenario
+2023-08-17 14:10:06,521 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,523 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,523  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,523  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Edit button functionality in fund transfer scenario
+2023-08-17 14:10:06,524 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,527 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,527  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,528  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Edit button functionality in fund transfer scenario
+2023-08-17 14:10:06,529 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,532 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,532  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,532  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Make Another Transfer button in the Fund Transfer
+2023-08-17 14:10:06,533 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,536 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,536  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,536  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of View Organization Transfers button in the Fund Transfer
+2023-08-17 14:10:06,537 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,539 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,539  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,546  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,547 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,549 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,549  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,549  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,550 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,552 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,552  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,552  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,553 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,555 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,555  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,555  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,556 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,559 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,559  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,559  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,560 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,563 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,563  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,564  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,564 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,567 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,567  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,567  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,568 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,571 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,571  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,571  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,572 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,574 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,574  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,574  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,575 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,577 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,577  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,577  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with remarks field more than 30 characters
+2023-08-17 14:10:06,578 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,582 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,582  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,582  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,582 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,585 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,586  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,586  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,586 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,588 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,589  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,589  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,589 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,591 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,591  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,591  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,591 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,593 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,593  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,594  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,594 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,596 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,597  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,597  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,597 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,599 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,600  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,600  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,601 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,603 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,603  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,603  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation
+2023-08-17 14:10:06,604 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,605 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,605  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,606  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with Modified Service Fee(Pricing feature) - No Approval
+2023-08-17 14:10:06,607 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,609 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,609  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,609  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with Modified Service Fee(Pricing feature) - No Approval
+2023-08-17 14:10:06,610 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,613 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,613  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,613  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with Modified Service Fee(Pricing feature) - No Approval
+2023-08-17 14:10:06,614 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,616 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,616  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,616  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with Modified Service Fee(Pricing feature) - No Approval
+2023-08-17 14:10:06,617 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,619 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,620  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,620  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with Modified Service Fee(Pricing feature) - No Approval
+2023-08-17 14:10:06,620 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,622 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,622  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,622  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Cancel Transaction popup in the fund transfer screen across different channels
+2023-08-17 14:10:06,623 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,624 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,625  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,625  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Cancel Transaction popup in the fund transfer screen across different channels
+2023-08-17 14:10:06,625 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,626 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,626  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,627  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Cancel Transaction popup in the fund transfer screen across different channels
+2023-08-17 14:10:06,627 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,629 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,629  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,629  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Cancel Transaction popup in the fund transfer screen across different channels
+2023-08-17 14:10:06,630 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,632 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,632  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,632  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Cancel Transaction popup in the fund transfer screen across different channels
+2023-08-17 14:10:06,632 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,634 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,634  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,635  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of deleting a scheduled fund transfer scenario
+2023-08-17 14:10:06,636 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,638 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,638  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,638  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of deleting a scheduled fund transfer scenario
+2023-08-17 14:10:06,639 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,640 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,640  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,641  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of deleting a scheduled fund transfer scenario
+2023-08-17 14:10:06,641 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,643 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,643  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,643  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of deleting a scheduled fund transfer scenario
+2023-08-17 14:10:06,643 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,646 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,647  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,647  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of deleting a scheduled fund transfer scenario
+2023-08-17 14:10:06,647 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,650 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,650  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,651  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with INVALID OTP Details across different channels
+2023-08-17 14:10:06,651 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,653 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,653  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,654  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with INVALID OTP Details across different channels
+2023-08-17 14:10:06,654 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,656 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,656  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,656  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with INVALID OTP Details across different channels
+2023-08-17 14:10:06,656 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,658 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,658  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,658  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with INVALID OTP Details across different channels
+2023-08-17 14:10:06,658 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,660 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,660  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,661  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Fund Transfer with INVALID OTP Details across different channels
+2023-08-17 14:10:06,662 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,664 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,665  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,665  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different Fund Transfer channels - Approval Hierarchy Flow
+2023-08-17 14:10:06,666 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,667 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,667  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,667  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different Fund Transfer channels - Approval Hierarchy Flow
+2023-08-17 14:10:06,668 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,670 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,670  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,670  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different Fund Transfer channels - Approval Hierarchy Flow
+2023-08-17 14:10:06,671 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,673 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,673  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,673  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different Fund Transfer channels - Approval Hierarchy Flow
+2023-08-17 14:10:06,674 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,676 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,676  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,676  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different Fund Transfer channels - Approval Hierarchy Flow
+2023-08-17 14:10:06,676 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,679 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,679  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,681  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different scheduled Fund Transfer Transaction falls under Approval Hierarchy Flow
+2023-08-17 14:10:06,681 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,683 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,683  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,683  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different scheduled Fund Transfer Transaction falls under Approval Hierarchy Flow
+2023-08-17 14:10:06,683 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,685 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,685  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,686  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different scheduled Fund Transfer Transaction falls under Approval Hierarchy Flow
+2023-08-17 14:10:06,686 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,688 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,688  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,688  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different scheduled Fund Transfer Transaction falls under Approval Hierarchy Flow
+2023-08-17 14:10:06,688 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,690 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,690  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,691  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Transaction created by the Corporate user (Maker) across different scheduled Fund Transfer Transaction falls under Approval Hierarchy Flow
+2023-08-17 14:10:06,691 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,693 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,693  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,694  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation for Business Line account
+2023-08-17 14:10:06,695 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,701 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,701  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,701  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation for Business Line account
+2023-08-17 14:10:06,702 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,704 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,704  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,704  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of fund transfer scenario with account balance calculation for Business Line account
+2023-08-17 14:10:06,705 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,706 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,706  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,708  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with approval flow for various payment channel
+2023-08-17 14:10:06,708 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,714 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,714  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,714  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with approval flow for various payment channel
+2023-08-17 14:10:06,714 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,716 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,716  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,717  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with approval flow for various payment channel
+2023-08-17 14:10:06,717 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,720 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,720  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,720  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with approval flow for various payment channel
+2023-08-17 14:10:06,721 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,724 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,724  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,724  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with approval flow for various payment channel
+2023-08-17 14:10:06,726 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,729 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,729  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,729  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with approval flow for various payment channel
+2023-08-17 14:10:06,729 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,732 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,732  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,733  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with rejection during approval hierarchy flow for various payment channel
+2023-08-17 14:10:06,733 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,736 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,736  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,737  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with rejection during approval hierarchy flow for various payment channel
+2023-08-17 14:10:06,737 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,743 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,743  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,743  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with rejection during approval hierarchy flow for various payment channel
+2023-08-17 14:10:06,744 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,748 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,748  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,749  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with rejection during approval hierarchy flow for various payment channel
+2023-08-17 14:10:06,749 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,752 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,752  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,753  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with rejection during approval hierarchy flow for various payment channel
+2023-08-17 14:10:06,753 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,757 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,757  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,757  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of scheduled fund transfer scenario with rejection during approval hierarchy flow for various payment channel
+2023-08-17 14:10:06,758 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,761 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,761  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,762  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify whether user is able to see Scan  icon and request  icon at upper right of Transact page
+2023-08-17 14:10:06,763 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,763 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,763  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,764  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify user is able to see tutorial after clicking on Help button and User can be able to skip the tutorial in Transact
+2023-08-17 14:10:06,765 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,766 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,766  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,766  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Generate Payment Link- Total Amount field
+2023-08-17 14:10:06,767 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,768 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,768  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,768  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Generate Payment Link- "Payment for" field
+2023-08-17 14:10:06,769 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,785 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,785  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,786  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validate the "Notify the Recipient"
+2023-08-17 14:10:06,786 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,788 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,788  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,788  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Generate Payment Link- Payment Link Expiry
+2023-08-17 14:10:06,790 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,792 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,792  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,793  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validate the "Notify the Recipient" field
+2023-08-17 14:10:06,793 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,796 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,797  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,797  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validate Cancel button on Requent Payment screen
+2023-08-17 14:10:06,797 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,799 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,799  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,800  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validate Generate Unique link button And Back icon at PageTop
+2023-08-17 14:10:06,800 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,802 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,802  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,802  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Contact Information - Email,Full Name,Mobile Number,Terms and Condition Checkbox
+2023-08-17 14:10:06,803 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,806 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,806  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,806  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify whether the customer is not able to proceed payment using the expired link
+2023-08-17 14:10:06,807 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,808 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,808  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,809  INFO [main] StepsBase:17 - Executing S C E N A R I O : Checkout using Unionbank Online Payment for Payment link generated by Android
+2023-08-17 14:10:06,809 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,811 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,811  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,812  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify Paid Status Link screen after Checkout using Unionbank Online Payment for Payment link generated && Verify Archieved button is Not available for the link in Paid status.
+2023-08-17 14:10:06,813 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,816 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,817  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,817  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validate Stay or Leave popup PopUp displayed
+2023-08-17 14:10:06,818 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,819 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,820  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,820  INFO [main] StepsBase:17 - Executing S C E N A R I O : Payment Link Status Validation of payment link- Already paid
+2023-08-17 14:10:06,820 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,823 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,823  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,823  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify Unpaid status link screen && Archieve status link screen && user is able to Mark as Unpaid for the payment link in Archived status.
+2023-08-17 14:10:06,824 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,828 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,828  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,829  INFO [main] StepsBase:17 - Executing S C E N A R I O : Payment Link status && Validation of payment link- Archived
+2023-08-17 14:10:06,829 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,832 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,832  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,832  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify Validation of payment link- invalid && check whether invalid link is shown when user change the store name in Payment link and change the reference no in Payment link
+2023-08-17 14:10:06,834 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,835 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,835  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,835  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify whether Non Approver don’t have access to setup onboarding screen
+2023-08-17 14:10:06,836 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,838 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,838  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,838  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify Paid Status Link screen after Checkout using instaPay Online Payment for Payment link generated && Verify Archieved button is Not available for the link in Paid status.
+2023-08-17 14:10:06,839 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,841 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,842  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,842  INFO [main] StepsBase:17 - Executing S C E N A R I O : Checkout using Unionbank Online Payment for Payment link generated by Android or IOS Via Generic Payment
+2023-08-17 14:10:06,842 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,844 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,844  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,844  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Contact Information Generic - Email
+2023-08-17 14:10:06,845 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,847 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,847  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,848  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Contact Information - Full Name
+2023-08-17 14:10:06,848 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,850 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,850  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,850  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Contact Information - Mobile Number
+2023-08-17 14:10:06,850 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,854 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,854  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,854  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link - Validation of Contact Information -  Remarks
+2023-08-17 14:10:06,855 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,858 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,859  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,859  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link - Validation of Contact Information -  Terms and Condition Checkbox
+2023-08-17 14:10:06,860 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,862 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,862  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,863  INFO [main] StepsBase:17 - Executing S C E N A R I O : Checkout using GrabPay Online Payment for Payment link generated by Android And IOS
+2023-08-17 14:10:06,863 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,865 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,866  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,866  INFO [main] StepsBase:17 - Executing S C E N A R I O : Checkout using GCash Online Payment for Payment link generated by Android And IOS
+2023-08-17 14:10:06,867 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,870 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,870  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,870  INFO [main] StepsBase:17 - Executing S C E N A R I O : Checkout using GrabPay Online Payment for Payment link generated by Android or IOS Via Generic Payment
+2023-08-17 14:10:06,871 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,872 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,872  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,872  INFO [main] StepsBase:17 - Executing S C E N A R I O : Checkout using GCash Online Payment for Payment link generated by Android or IOS Via Generic Payment
+2023-08-17 14:10:06,873 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,877 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,878  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,878  INFO [main] StepsBase:17 - Executing S C E N A R I O : Unique Link payment using Credit Debit Payment Method for Visa
+2023-08-17 14:10:06,879 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,884 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,884  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,884  INFO [main] StepsBase:17 - Executing S C E N A R I O : Unique Link payment using Credit Debit Payment Method for Master
+2023-08-17 14:10:06,885 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,894 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,895  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,895  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using Credit Debit Payment Method for Visa
+2023-08-17 14:10:06,896 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,898 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,898  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,898  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using Credit Debit Payment Method for Master
+2023-08-17 14:10:06,899 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,901 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,902  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,902  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using OTC eCash
+2023-08-17 14:10:06,902 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,918 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,918  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,918  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using OTC palawan
+2023-08-17 14:10:06,919 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,922 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,922  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,922  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using OTC Cebuana
+2023-08-17 14:10:06,923 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,925 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,925  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,925  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using OTC robinsons
+2023-08-17 14:10:06,925 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,927 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,928  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,928  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link payment using OTC SM
+2023-08-17 14:10:06,929 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,931 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,932  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,932  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation for "Nature of Business" field
+2023-08-17 14:10:06,932 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,933 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,933  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,934  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation for "Product of Service Offred" Field
+2023-08-17 14:10:06,934 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,935 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,935  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,936  INFO [main] StepsBase:17 - Executing S C E N A R I O : Generic Link Checkout - Amount field
+2023-08-17 14:10:06,937 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,938 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,938  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,938  INFO [main] StepsBase:17 - Executing S C E N A R I O : Payment channels disabled based on Amount in Generic eWallet
+2023-08-17 14:10:06,938 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,939 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,939  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,940  INFO [main] StepsBase:17 - Executing S C E N A R I O : Payment channels disabled based on Amount in Generic OTC
+2023-08-17 14:10:06,940 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,941 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,941  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,942  INFO [main] StepsBase:17 - Executing S C E N A R I O : Payment channels disabled based on Amount in Unique eWallet && Unique OTC
+2023-08-17 14:10:06,942 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,944 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,945  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,945  INFO [main] StepsBase:17 - Executing S C E N A R I O : Payment channels disabled based on Amount in Unique OTC & Ewallet Boundry value
+2023-08-17 14:10:06,946 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,948 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,948  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,948  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of updating mobile number details for a corporate user
+2023-08-17 14:10:06,949 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,950 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,951  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,952  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of updating email address for a corporate user
+2023-08-17 14:10:06,952 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,954 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,954  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,955  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Learn More option in the settings page
+2023-08-17 14:10:06,956 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,959 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,959  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,962  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Managing the OTP flow for Login scenario in the settings page
+2023-08-17 14:10:06,963 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,966 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,966  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,966  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Managing the OTP flow for Transaction scenario in the settings page
+2023-08-17 14:10:06,967 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,970 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,970  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,970  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Managing the OTP flow for Transaction scenario in the settings page
+2023-08-17 14:10:06,971 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,974 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,974  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,974  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Notification option under security menu
+2023-08-17 14:10:06,975 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,977 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,978  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,978  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Notification option under security menu
+2023-08-17 14:10:06,978 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,981 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,981  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,981  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Notification option under security menu
+2023-08-17 14:10:06,981 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,983 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,983  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,983  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Notification option under security menu
+2023-08-17 14:10:06,983 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,984 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,984  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,984  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify user is able to see tutorial after clicking on Help button and User can be able to skip the tutorial in Settings Tab
+2023-08-17 14:10:06,985 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,987 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,987  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,987  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Account Details & Transaction History Details - PHP
+2023-08-17 14:10:06,987 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,989 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,989  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,989  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Account Details & Transaction History Details - PHP
+2023-08-17 14:10:06,991 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,993 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,994  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,994  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify user is able to see tutorial after clicking on Help button and User can be able to skip the tutorial in Dashboard Tab
+2023-08-17 14:10:06,994 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,996 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,996  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,997  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify  User is  able to get popup as "Mark All as Read" with No and Yes buttons when User clicks  Mark all icon at upper right in Alerts tab
+2023-08-17 14:10:06,997 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:06,999 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:06,999  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:06,999  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify user is able to see tutorial after clicking on Help button and User can be able to skip the tutorial in Alerts Tab
+2023-08-17 14:10:07,000 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,001 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,001  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,002  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of approving multiple transaction entries in the Approval screen
+2023-08-17 14:10:07,002 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,004 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,004  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,005  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Rejecting multiple transaction entries in the Approval screen
+2023-08-17 14:10:07,005 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,009 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,009  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,009  INFO [main] StepsBase:17 - Executing S C E N A R I O : Verify user is able to see tutorial after clicking on Help button and User can be able to skip the tutorial in Settings Tab
+2023-08-17 14:10:07,010 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,011 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,011  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,012  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for own union bank account
+2023-08-17 14:10:07,012 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,015 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,015  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,015  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for PESONet transaction
+2023-08-17 14:10:07,016 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,017 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,018  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,018  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for PDDTS transaction
+2023-08-17 14:10:07,019 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,021 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,021  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,021  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for SWIFT transaction
+2023-08-17 14:10:07,022 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,024 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,024  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,025  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for InstaPay transaction
+2023-08-17 14:10:07,025 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,026 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,026  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,026  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Editing a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,027 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,030 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,030  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,030  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Editing a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,031 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,032 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,033  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,033  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Editing a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,033 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,036 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,036  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,036  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Editing a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,036 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,039 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,039  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,040  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Editing a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,040 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,043 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,043  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,043  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,044 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,046 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,046  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,046  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,047 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,052 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,052  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,052  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,053 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,055 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,055  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,056  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,056 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,058 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,058  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,058  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting a beneficiary scenario with source account for different transaction channel
+2023-08-17 14:10:07,059 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,060 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,060  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,061  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for different channels without bene code
+2023-08-17 14:10:07,061 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,064 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,064  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,064  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for different channels without bene code
+2023-08-17 14:10:07,065 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,067 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,067  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,067  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for different channels without bene code
+2023-08-17 14:10:07,068 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,069 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,069  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,069  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for different channels without bene code
+2023-08-17 14:10:07,069 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,070 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,070  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,070  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Adding a beneficiary scenario with source account for different channels without bene code
+2023-08-17 14:10:07,072 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,072 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,072  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,073  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller as Aboitizland Locators
+2023-08-17 14:10:07,073 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,074 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,075  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,075  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller as Aboitizland Locators with Approval Hierarchy Flow
+2023-08-17 14:10:07,075 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,078 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,078  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,079  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller as Aboitizland Locators with Rejection during Hierarchy Flow
+2023-08-17 14:10:07,079 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,082 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,082  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,083  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller as Aboitizland Locators for transaction not allowed scenario
+2023-08-17 14:10:07,083 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,085 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,086  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,086  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with Frequent biller details as Aboitizland Locators for No Approval hierarchy flow
+2023-08-17 14:10:07,086 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,088 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,088  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,088  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with Frequent biller details as Aboitizland Locators with Approval hierarchy flow
+2023-08-17 14:10:07,089 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,090 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,091  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,091  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with Frequent biller details as Aboitizland Locators with Rejection during Hierarchy Flow
+2023-08-17 14:10:07,091 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,094 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,094  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,095  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with Frequent biller as Aboitizland Locators for transaction not allowed scenario
+2023-08-17 14:10:07,096 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,098 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,098  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,098  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Edit button functionality in Bill Payment scenario
+2023-08-17 14:10:07,099 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,100 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,101  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,101  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Make Another Payment button in the Bill Payment scenario
+2023-08-17 14:10:07,101 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,103 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,103  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,103  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of View Organization Payment button in the Bill Payment scenario
+2023-08-17 14:10:07,103 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,105 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,105  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,106  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with more than 30 characters in Remarks field
+2023-08-17 14:10:07,106 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,108 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,108  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,109  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Cancel Transaction popup in the bills payment screen
+2023-08-17 14:10:07,109 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,111 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,111  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,112  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller HSBCMaster card & Cignal TV
+2023-08-17 14:10:07,112 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,115 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,115  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,115  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller HSBCMaster card & Cignal TV
+2023-08-17 14:10:07,116 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,118 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,118  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,118  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller as HSBCMaster card & Cignal TV
+2023-08-17 14:10:07,118 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,121 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,121  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,121  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with biller as HSBCMaster card & Cignal TV
+2023-08-17 14:10:07,121 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,124 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,124  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,125  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario with INVALID OTP during payment
+2023-08-17 14:10:07,125 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,127 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,127  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,127  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Payment created by the Corporate user (Maker) across Bills Payment - Approval Hierarchy Flow
+2023-08-17 14:10:07,128 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,130 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,130  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,131  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of 24hours Pop up when the corporate user performs Bills payment to the same biller with same amount within the period of 24 hours
+2023-08-17 14:10:07,131 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,133 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,133  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,133  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of 24hours Pop up when the corporate user performs Bills payment to the same biller with same amount within the period of 24 hours
+2023-08-17 14:10:07,133 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,135 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,135  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,136  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of 24hours Pop up when the corporate user performs Bills payment to the same biller with same amount within the period of 24 hours
+2023-08-17 14:10:07,136 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,137 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,137  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,137  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of 24hours Pop up when the corporate user performs Bills payment to the same biller with same amount within the period of 24 hours
+2023-08-17 14:10:07,138 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,141 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,141  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,142  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario for the Business Line Account
+2023-08-17 14:10:07,143 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,145 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,145  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,146  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario for the Business Line Account
+2023-08-17 14:10:07,146 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,149 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,149  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,149  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Bill Payment scenario for the Business Line Account
+2023-08-17 14:10:07,149 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,152 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,152  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,152  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Forgot password scenario with vaid email id
+2023-08-17 14:10:07,153 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,154 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,155  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,155  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Creation of Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,155 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,157 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,158  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,158  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Editing the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,158 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,161 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,161  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,161  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,162 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,165 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,165  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,165  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation to check whether the Biller - Meraclo cannot be created as a Frequent biller
+2023-08-17 14:10:07,166 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,168 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,168  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,168  INFO [main] StepsBase:17 - Executing S C E N A R I O : Corporate Banking user Login with valid credentials
+2023-08-17 14:10:07,169 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,170 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,170  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,171  INFO [main] StepsBase:17 - Executing S C E N A R I O : Corporate Banking user Login with valid user id and invalid password
+2023-08-17 14:10:07,171 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,173 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,173  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,173  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Learn more page in AutoBahn Corporate Banking
+2023-08-17 14:10:07,174 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,176 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,176  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,177  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,177 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,178 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,178  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,178  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,178 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,179 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,179  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,179  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,180 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,180 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,180  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,180  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,181 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,181 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,181  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,182  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,182 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,183 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,183  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,183  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,183 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,184 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,184  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,184  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,184 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,185 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,185  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,185  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,186 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,188 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,188  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,188  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,189 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,190 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,191  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,191  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,191 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,192 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,193  INFO [main] Keywords:61 - Application closed
+2023-08-17 14:10:07,193  INFO [main] StepsBase:17 - Executing S C E N A R I O : Validation of Deleting the Frequent biller with biller as Aboitizland Locators
+2023-08-17 14:10:07,194 ERROR [main] PropertyReader:40 - exceptions.EnvironmentException: Property [Device.null.OS] value is null in file ProjectSettings.properties
+2023-08-17 14:10:07,197 ERROR [main] StepsBase:24 - S C E N A R I O    F A I L E D !!!!!
+2023-08-17 14:10:07,197  INFO [main] Keywords:61 - Application closed
